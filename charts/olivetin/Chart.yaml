@@ -10,7 +10,7 @@ icon: "https://avatars.githubusercontent.com/u/85869711?s=200&v=4"
 dependencies:
   - name: common
     version: ~0.1.13
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
 keywords:
   - olivetin
   - shell

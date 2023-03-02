@@ -10,10 +10,10 @@ icon: "https://d1q6f0aelx0por.cloudfront.net/product-logos/library-friendica-log
 dependencies:
   - name: common
     version: ~0.1.9
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
   - name: mariadb
     version: ~1.0.3
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
     condition: mariadb.enabled
 keywords:
   - friend

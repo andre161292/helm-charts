@@ -11,11 +11,11 @@ An ultra-lightweight blogging engine, written in PHP.
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://nicholaswilde.github.io/helm-charts/ | common | ~0.1.13 |
+| https://andre161292.github.io/nicholaswilde-helm-charts/ | common | ~0.1.13 |
 
 ## TL;DR
 ```console
-$ helm repo add nicholaswilde https://nicholaswilde.github.io/helm-charts/
+$ helm repo add nicholaswilde https://andre161292.github.io/nicholaswilde-helm-charts/
 $ helm repo update
 $ helm install chyrp-lite nicholaswilde/chyrp-lite
 ```

@@ -10,7 +10,7 @@ icon: "https://fossil-scm.org/home/doc/trunk/www/fossil3.gif"
 dependencies:
   - name: common
     version: ~0.1.9
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
 keywords:
   - fossil
   - scm

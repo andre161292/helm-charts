@@ -18,7 +18,7 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```console
-helm repo add nicholaswilde https://nicholaswilde.github.io/helm-charts/
+helm repo add nicholaswilde https://andre161292.github.io/nicholaswilde-helm-charts/
 helm repo update
 ```
 You can then run `helm search repo nicholaswilde` to see the charts.

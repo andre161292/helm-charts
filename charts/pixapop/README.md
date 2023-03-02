@@ -8,11 +8,11 @@ An open-source single page application to view your photos in the easiest way po
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://nicholaswilde.github.io/helm-charts/ | common | ~0.1.8 |
+| https://andre161292.github.io/nicholaswilde-helm-charts/ | common | ~0.1.8 |
 
 ## TL;DR
 ```console
-$ helm repo add nicholaswilde https://nicholaswilde.github.io/helm-charts/
+$ helm repo add nicholaswilde https://andre161292.github.io/nicholaswilde-helm-charts/
 $ helm repo update
 $ helm install pixapop nicholaswilde/pixapop
 ```

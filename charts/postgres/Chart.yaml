@@ -10,7 +10,7 @@ icon: "https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo
 dependencies:
   - name: common
     version: ~0.1.8
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
 keywords:
   - postgres
   - database

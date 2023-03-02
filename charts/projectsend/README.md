@@ -8,12 +8,12 @@ A self-hosted application that lets you upload files and assign them to specific
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://nicholaswilde.github.io/helm-charts/ | common | ~0.1.13 |
-| https://nicholaswilde.github.io/helm-charts/ | mariadb | ~1.0.5 |
+| https://andre161292.github.io/nicholaswilde-helm-charts/ | common | ~0.1.13 |
+| https://andre161292.github.io/nicholaswilde-helm-charts/ | mariadb | ~1.0.5 |
 
 ## TL;DR
 ```console
-$ helm repo add nicholaswilde https://nicholaswilde.github.io/helm-charts/
+$ helm repo add nicholaswilde https://andre161292.github.io/nicholaswilde-helm-charts/
 $ helm repo update
 $ helm install projectsend nicholaswilde/projectsend
 ```

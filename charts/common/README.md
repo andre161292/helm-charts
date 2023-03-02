@@ -8,7 +8,7 @@ Since a lot of charts follow the same pattern this library was built to reduce m
 
 ## TL;DR
 ```console
-$ helm repo add nicholaswilde https://nicholaswilde.github.io/helm-charts/
+$ helm repo add nicholaswilde https://andre161292.github.io/nicholaswilde-helm-charts/
 $ helm repo update
 $ helm install common nicholaswilde/common
 ```
@@ -24,7 +24,7 @@ Include this chart as a dependency in your `Chart.yaml` e.g.
 dependencies:
   - name: common
     version: 0.1.13
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
 ```
 Write a `values.yaml` with some basic defaults you want to present to the user e.g.
 

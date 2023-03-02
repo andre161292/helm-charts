@@ -10,7 +10,7 @@ icon: "https://raw.githubusercontent.com/crazy-max/diun/master/.res/diun.png"
 dependencies:
   - name: common
     version: ~0.1.13
-    repository: https://nicholaswilde.github.io/helm-charts/
+    repository: https://andre161292.github.io/nicholaswilde-helm-charts/
 keywords:
   - docker
   - notifier
