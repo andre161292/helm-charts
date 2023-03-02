@@ -10,3 +10,4 @@ chart-repos:
   - bitnami=https://charts.bitnami.com/bitnami
   - k8s-at-home=https://k8s-at-home.com/charts
   - nicholaswilde=https://nicholaswilde.github.io/helm-charts
+  - andre161292=https://andre161292.github.io/nicholaswilde-helm-charts
