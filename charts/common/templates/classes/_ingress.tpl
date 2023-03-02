@@ -44,7 +44,9 @@ spec:
         paths:
           {{- range .paths }}
           - path: {{ .path }}
+            {{- if eq $version "networking.k8s.io/v1" }}
             pathType: {{ .pathType }}
+            {{- end }}
             backend:
               {{- if ne $version "networking.k8s.io/v1" }}
               serviceName: {{ $svcName }}
